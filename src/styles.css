@@ -13,7 +13,9 @@ body {
   padding: 0;
   width: 100%;
 }
-
+html {
+  scroll-behavior: smooth;
+}
 div#main {
   display: flex;
   flex-direction: column;
@@ -123,3 +125,4 @@ img.socialIcon {
   height: 30px;
   width: 30px;
 }
+
