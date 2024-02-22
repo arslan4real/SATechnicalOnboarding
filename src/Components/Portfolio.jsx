@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/LinkedIn-Backdrop.png";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Heer - Mobile App | UI/UX Design",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Introducing Heer, the app connecting you to local communities, fostering meaningful connections and authentic insights. Engage in vibrant discussions with reactions, ensuring your voice is heard. Privacy is paramount, with Heer safeguarding personal information. Discover and engage with local communities worldwide through default state-based communities. You can also join communities created by locals or you can create your own. Seamlessly explore the world using the intuitive map feature. Let Heer be your gateway to vibrant, interactive, and private community experiences, whether you're a resident or a traveler.",
+    url: "https://www.behance.net/gallery/174865925/Heer-Mobile-App-UIUX-Design",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Task Manager App | Hero Me | Mobile App | UI/UX",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A gamified task manager app where users embody a knight, leveling up through completing tasks, customizing their avatar, and earning rewards. Transforming productivity into an epic adventure, Hero Me adds a touch of fun to task management.",
+    url: "https://www.behance.net/gallery/190614101/Task-Manager-App-Hero-Me-Mobile-App-UIUX",
   },
   {
-    title: "My Resume Site",
+    title: "Ticket Booking App | Histix | Mobile App | Web | UI/UX",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Histix is an innovative event discovery and booking app designed to cater to users' diverse interests, from music concerts and sports games to tech conferences and festivals. With a user-friendly interface and personalized features, Histix aims to revolutionize the way users explore and enjoy events in their area.",
+    url: "https://www.behance.net/gallery/191023497/Ticket-Booking-App-Histix-Mobile-App-Web-UIUX",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Oral Hygiene | Oral Pod | IoT Management | UI/UX Design",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Oral Pods is an innovative application designed to revolutionize oral hygiene routines through seamless integration with an IoT brushing tool. With personalized profiles, real-time monitoring, and advanced customization options, Oral Pods enhances the brushing experience for individuals and families alike.",
+    url: "https://www.behance.net/gallery/191856763/Oral-Hygiene-Oral-Pod-IoT-Management-UIUX-Design",
   },
 ];
 
